@@ -7,3 +7,9 @@ This version needs of an account (it will not send any kind of verification so j
 If it doesnt work, or the password its wrong or the server its dead (yes, i should had add more feedback, but notice it later and rigth now im working on more things that will come handier for my future).
 
 If anyone plays it, thanks in advance for giving it a try.
+
+## How to play
+
+- Download the folder
+- Start the .exe
+- Enjoy
