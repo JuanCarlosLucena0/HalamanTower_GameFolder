@@ -13,3 +13,7 @@ If anyone plays it, thanks in advance for giving it a try.
 - Download the folder
 - Start the .exe
 - Enjoy
+
+### Note
+
+Not compatible with ultra wide (sorry)
