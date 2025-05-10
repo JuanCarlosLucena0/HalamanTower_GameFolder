@@ -14,6 +14,8 @@ If anyone plays it, thanks in advance for giving it a try.
 - Start the .exe
 - Enjoy
 
-### Note
+### Notes
 
-Not compatible with ultra wide (sorry)
+- Not compatible with ultra wide (sorry)
+
+- You can use "aaaa" as email, and password to log in if you feel lazy to create an account
